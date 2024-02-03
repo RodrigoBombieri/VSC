@@ -4,3 +4,4 @@ let numC = 6 + 10
 
 let res = numA + numB
 console.log(res + 10)
+
